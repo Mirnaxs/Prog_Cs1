@@ -55,7 +55,7 @@
         static void RestartApp()
         {
             Console.Clear();
-            SayStarWars(1);
+            SayStarWars();
         }
 
         static void StopApp()
